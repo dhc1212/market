@@ -1,0 +1,7 @@
+ID;parent_ID;products.productID;quantity;netamount;customer.customerID;shipVia
+58040e66-1dcd-4ffb-ab10-fdce32028b79;7e2f2640-6866-4dcf-8f4d-3027aa831cad;1;1;18;11;ship
+58040e66-1dcd-4ffb-ab10-fdce32028b73;7e2f2640-6866-4dcf-8f4d-3027aa831ca3;2;15;10;22;"비행기"
+58040e66-1dcd-4ffb-ab10-fdce32028b72;7e2f2640-6866-4dcf-8f4d-3027aa831ca2;3;100;7;33;"기차"
+58040e66-1dcd-4ffb-ab10-fdce32028b71;7e2f2640-6866-4dcf-8f4d-3027aa831ca1;4;88;55;44;"트럭"
+58040e66-1dcd-4ffb-ab10-fdce32028b74;7e2f2640-6866-4dcf-8f4d-3027aa831ca4;2;88;55;222;"트럭"
+58040e66-1dcd-4ffb-ab10-fdce32028b75;7e2f2640-6866-4dcf-8f4d-3027aa831ca5;1;88;55;333;"배"

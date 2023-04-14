@@ -1,0 +1,15 @@
+customerID;CompanyName;dateOfBirth;contactName;address_ID
+11;"mdpert";"1996-05-02";"이제영";9f7410bb-b3f3-4809-afea-f75413c7dd0b
+22;"mdpert";"1999-08-10";"최인수";9f7410bb-b3f3-4809-afea-f75413c7dd0c
+33;"mdpert";"2018-11-25";"강태원";9f7410bb-b3f3-4809-afea-f75413c7dd0d
+44;"SM";"2018-11-25";"강호동";9f7410bb-b3f3-4809-afea-f75413c7dd0e
+55;"JYP";"1978-05-13";"유재석";9f7410bb-b3f3-4809-afea-f75413c7dd0f
+66;"ANTENA";"1996-02-05";"신동엽";9f7410bb-b3f3-4809-afea-f75413c7dd0b
+77;"NCSOFT";"1996-02-05";"잔나비";9f7410bb-b3f3-4809-afea-f75413c7dd0b
+88;"COuPANG";"1996-02-05";"블랙핑크";9f7410bb-b3f3-4809-afea-f75413c7dd0b
+99;"NAVER";"1996-02-05";"에이핑크";9f7410bb-b3f3-4809-afea-f75413c7dd0b
+111;"SAMSUNG";"1996-02-05";"산다라박";9f7410bb-b3f3-4809-afea-f75413c7dd0b
+222;"LG";"1996-02-05";"에일리";9f7410bb-b3f3-4809-afea-f75413c7dd0b
+333;"AMAZON";"1996-02-05";"BTS";9f7410bb-b3f3-4809-afea-f75413c7dd0b
+444;"JYP";"1996-02-05";"뉴진스";9f7410bb-b3f3-4809-afea-f75413c7dd0b
+555;"SM";"1996-02-05";"존박";9f7410bb-b3f3-4809-afea-f75413c7dd0b
