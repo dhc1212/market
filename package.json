@@ -13,6 +13,9 @@
   "devDependencies": {
     "sqlite3": "^5.0.4"
   },
+  "engines": {
+      "node": "^16"
+  },
   "scripts": {
     "start": "cds run"
   }
